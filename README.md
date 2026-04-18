@@ -44,3 +44,10 @@ This dashboard enables organizations to:
 - DAX (Data Analysis Expressions)
 - Data Modeling
 - Credit card & customer Dataset
+
+## 📸 Dashboard Preview
+
+This dashboard provides a comprehensive analysis of credit card transactions
+![Credit Card Transaction Dashboard](https://github.com/pritampp/Credit-Card-Transaction-Report/raw/main/Credit%20Card%20Transaction%20Analytics.png)
+
+
